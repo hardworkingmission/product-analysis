@@ -1,5 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import honey from '../../images/honey_2.jpg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
 
 const Home = () => {
@@ -21,8 +24,15 @@ const Home = () => {
                 <h1 className='text-2xl flex justify-center font-bold'>Customer Reviews(3)</h1>
                 <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 grid-cols-1">
 
-
                 </div>
+                <div className="see-all-button w-full flex justify-center my-3">
+                    <button className='px-4 py-2 bg-pink-600 text-white text-lg  rounded-lg'>
+                        <Link to={'/reviews'}>
+                            See All Reviews<FontAwesomeIcon className='ml-2' icon={faArrowRight}/>
+                        </Link>
+                    </button>
+                </div>
+                
             </div>
 
             
