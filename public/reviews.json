@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Acton Gould",
+		"id": 1,
+		"ratings": 3,
+		"reviews": "nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia",
+        "img":"cutomer_1.jpg"
+
+	},
+	{
+		"name": "Joelle Garza",
+		"id": 2,
+		"ratings": 4,
+		"reviews": "vel lectus. Cum sociis natoque penatibus et magnis dis parturient",
+        "img":"cutomer_2.jpg"
+	},
+	{
+		"name": "Hyacinth Lynn",
+		"id": 3,
+		"ratings": 1.5,
+		"reviews": "nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet.",
+        "img":"cutomer_3.jpg"
+	},
+	{
+		"name": "Asher Ray",
+		"id": 4,
+		"ratings": 4.5,
+		"reviews": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
+        "img":"cutomer_4.jpg"
+	},
+	{
+		"name": "Jackson Hurst",
+		"id": 5,
+		"ratings": 5,
+		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+        "img":"cutomer_5.jpg"
+	},
+    {
+		"name": "Jackson Hurst",
+		"id": 6,
+		"ratings": 2,
+		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+        "img":"cutomer_6.jpg"
+	}
+    ,
+	{
+		"name": "Jackson Hurst",
+		"id": 7,
+		"ratings": 2.5,
+		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+        "img":"cutomer_7.jpg"
+	},
+	{
+		"name": "Jackson Hurst",
+		"id": 6,
+		"ratings": 3.5,
+		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+        "img":"cutomer_8.jpg"
+	},
+	{
+		"name": "Jackson Hurst",
+		"id": 9,
+		"ratings": 4.5,
+		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+        "img":"cutomer_9.jpg"
+	}
+]
