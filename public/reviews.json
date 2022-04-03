@@ -4,7 +4,7 @@
 		"id": 1,
 		"ratings": 3,
 		"reviews": "nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia",
-        "img":"cutomer_1.jpg"
+        "img":"pexels-brett-sayles-1073097.jpg"
 
 	},
 	{
@@ -12,35 +12,35 @@
 		"id": 2,
 		"ratings": 4,
 		"reviews": "vel lectus. Cum sociis natoque penatibus et magnis dis parturient",
-        "img":"cutomer_2.jpg"
+        "img":"pexels-burst-373899.jpg"
 	},
 	{
 		"name": "Hyacinth Lynn",
 		"id": 3,
 		"ratings": 1.5,
 		"reviews": "nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet.",
-        "img":"cutomer_3.jpg"
+        "img":"pexels-daniel-xavier-1212984.jpg"
 	},
 	{
 		"name": "Asher Ray",
 		"id": 4,
 		"ratings": 4.5,
 		"reviews": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
-        "img":"cutomer_4.jpg"
+        "img":"pexels-andrea-piacquadio-837306.jpg"
 	},
 	{
 		"name": "Jackson Hurst",
 		"id": 5,
 		"ratings": 5,
 		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
-        "img":"cutomer_5.jpg"
+        "img":"pexels-elle-hughes-1680172.jpg"
 	},
     {
 		"name": "Jackson Hurst",
 		"id": 6,
 		"ratings": 2,
 		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
-        "img":"cutomer_6.jpg"
+        "img":"pexels-elle-hughes-1680175.jpg"
 	}
     ,
 	{
@@ -48,20 +48,20 @@
 		"id": 7,
 		"ratings": 2.5,
 		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
-        "img":"cutomer_7.jpg"
+        "img":"pexels-linkedin-sales-navigator-2182970.jpg"
 	},
 	{
 		"name": "Jackson Hurst",
 		"id": 6,
 		"ratings": 3.5,
 		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
-        "img":"cutomer_8.jpg"
+        "img":"pexels-mentatdgt-937481.jpg"
 	},
 	{
 		"name": "Jackson Hurst",
 		"id": 9,
 		"ratings": 4.5,
 		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
-        "img":"cutomer_9.jpg"
+        "img":"pexels-pixabay-532220.jpg"
 	}
 ]
