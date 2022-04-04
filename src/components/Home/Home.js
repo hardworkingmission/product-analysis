@@ -9,10 +9,13 @@ import Review from '../Review/Review';
 
 const Home = () => {
     const [reviews,isLoading,setReviews]=useReviews()
-    let newReviews=[]
-    for(let i=0;i<3;i++){
-        newReviews.push(isLoading||reviews[i])
+    
+    //get three reviews randomly from reviews
+    const getMultipleRandom=(arr,num)=>{
+        const shuffled=[...arr].sort(()=>0.5-Math.random())
+        return shuffled.slice(0,num)
     }
+    let newReviews=getMultipleRandom(reviews,3)
     //console.log('newReviews',newReviews)
     return (
         <div className='w-5/6 mx-auto '>
