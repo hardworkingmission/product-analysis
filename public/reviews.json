@@ -1,45 +1,45 @@
 [
 	{
 		"name": "Acton Gould",
-		"id": 1,
+		"id": 2,
 		"ratings": 3,
-		"reviews": "nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia",
+		"reviews": "I have previously ordered this honey many times and loved it before, however it seems like the cost of this honey is increasing but the quality is going down day by day.",
         "img":"pexels-brett-sayles-1073097.jpg"
 
 	},
 	{
 		"name": "Joelle Garza",
 		"id": 2,
-		"ratings": 4,
-		"reviews": "vel lectus. Cum sociis natoque penatibus et magnis dis parturient",
+		"ratings": 2,
+		"reviews": "Unfortunately this honey caused allergic reactions (skin rashes) and when added to tea it made my drink very cloudy with awful smell. Won’t buy again.",
         "img":"pexels-burst-373899.jpg"
 	},
 	{
 		"name": "Hyacinth Lynn",
 		"id": 3,
 		"ratings": 1.5,
-		"reviews": "nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet.",
+		"reviews": "The honey had crystallised and the texture was horrible!.I bought this as a gift and the recipient was really disappointed.There is no way this honey is going to be eaten ! Its a kilo jar.",
         "img":"pexels-daniel-xavier-1212984.jpg"
 	},
 	{
 		"name": "Asher Ray",
 		"id": 4,
 		"ratings": 4.5,
-		"reviews": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
+		"reviews": "First Jar:I have been trying different honeys from different brands at different price ranges. So far this was the best honey I tasted. Old fashioned, real, nice smelling honey. Great!",
         "img":"pexels-andrea-piacquadio-837306.jpg"
 	},
 	{
 		"name": "Jackson Hurst",
 		"id": 5,
 		"ratings": 5,
-		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+		"reviews": "Wow, this is fantastic! Very smooth but still 'dark' taste - I have a bought a considerable number of honeys in my life (and forest or honeydew is usually what I go for), but this is quite unique and among the best I have tasted so far.",
         "img":"pexels-elle-hughes-1680172.jpg"
 	},
     {
 		"name": "Jackson Hurst",
 		"id": 6,
 		"ratings": 2,
-		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+		"reviews": "Unfortunately this honey caused allergic reactions (skin rashes) and when added to tea it made my drink very cloudy with awful smell. Won’t buy again.",
         "img":"pexels-elle-hughes-1680175.jpg"
 	}
     ,
@@ -47,21 +47,21 @@
 		"name": "Jackson Hurst",
 		"id": 7,
 		"ratings": 2.5,
-		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+		"reviews": "Unfortunately this honey caused allergic reactions (skin rashes) and when added to tea it made my drink very cloudy with awful smell. Won’t buy again.",
         "img":"pexels-linkedin-sales-navigator-2182970.jpg"
 	},
 	{
 		"name": "Jackson Hurst",
-		"id": 6,
-		"ratings": 3.5,
-		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+		"id": 8,
+		"ratings": 5,
+		"reviews": "Knew this is pure raw unprocessed honey from the moment of opening the jar (zero plastic packaging!!!!! - metal lid and special cardboard box to prevent breaking the jar in transit)",
         "img":"pexels-mentatdgt-937481.jpg"
 	},
 	{
 		"name": "Jackson Hurst",
 		"id": 9,
 		"ratings": 4.5,
-		"reviews": "ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id",
+		"reviews": "Packaging was fantastic, very secure and item arrived in perfect condition considering it's a glass jar.",
         "img":"pexels-pixabay-532220.jpg"
 	}
 ]

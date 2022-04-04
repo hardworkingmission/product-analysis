@@ -14,6 +14,7 @@ const DashBoard = () => {
         <div className='lg:w-5/6 md:w-5/6 w-full mx-auto mt-3'>
             <div className="line-charts md:flex">
                 <div className="lg:w-6/12 md:w-6/12 sm:w-full w-full ">
+                {/* MONTH WISE SELL line chart*/}
                     <h1 className='text-center text-pink-600 font-bold'>MONTH WISE SELL</h1>
                     <ResponsiveContainer width="95%" height={400}>
                         <LineChart
@@ -30,6 +31,7 @@ const DashBoard = () => {
                     
                 </div>
                 <div className="lg:w-6/12 md:w-full sm:w-full w-full flex flex-col items-center">
+                {/* INVESTMENT Vs REVENUE  area chart*/}
                     <h1 className='text-center text-pink-600 font-bold'>INVESTMENT Vs REVENUE</h1>
                     <ResponsiveContainer width="95%" height={400}>
                         <AreaChart width={500} height={250} data={chartData}
@@ -57,6 +59,7 @@ const DashBoard = () => {
             </div>
             <div className="bar-charts my-3">
                 <div className="lg:w-6/12 md:w-6/12 sm:w-full w-full">
+                {/* INVESTMENT Vs REVENUE barchart */}
                 <h1 className='text-center text-pink-600 font-bold'>INVESTMENT Vs REVENUE</h1>
                 <ResponsiveContainer width="95%" height={400}>
                     <BarChart width={530} height={250} data={chartData}>
