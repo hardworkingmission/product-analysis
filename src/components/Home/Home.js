@@ -8,7 +8,7 @@ import Review from '../Review/Review';
 
 
 const Home = () => {
-    const [reviews,isLoading,setReviews]=useReviews()
+    const [reviews]=useReviews()
     
     //get three reviews randomly from reviews
     const getMultipleRandom=(arr,num)=>{
@@ -31,6 +31,7 @@ const Home = () => {
                     <img src={honey} alt="" />
                 </div>
             </div>
+            {/* Three Customer reviews */}
             <div className="reviews">
                 <h1 className='text-2xl flex justify-center font-bold'>Customer Reviews({newReviews.length})</h1>
                 <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 grid-cols-1 gap-3 my-3">
@@ -46,10 +47,7 @@ const Home = () => {
                         </Link>
                     </button>
                 </div>
-                
             </div>
-
-            
         </div>
 
     );
